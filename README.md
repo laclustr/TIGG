@@ -1,7 +1,8 @@
 # TIGG
-TI Game Guide, or TIGG, is Laclustr's guide to putting games on the TI-83 and TI-84 calculators. This guide includes the color editions (CE) and plus editions as well.
+TI Game Guide, or TIGG, is Laclustr's guide to putting games on the TI-83 and TI-84 calculators. This guide includes the color editions (CE) and plus editions as well. This doesn't include the special editions (SE) however. Any questions or comments, shoot me an email at ret.45ds@gmail.com.
 
 Before you begin, please ensure you have the USB cable required to connect your calculator to connect your calculator to your computer.
+THE NON-CE GUIDE IS NOT COMPLETE, FIND ANOTHER GUIDE.
 
 Step 1. 
 
@@ -14,7 +15,7 @@ Step 2.
 
 Check the version of your calculator OS by pressing the '2nd' key as well as the '+' key. Next, press the '1' key, directly below the edition of your calculator should be a number in this format 'x.x.x.xxxx'.
 For CE Calculators - If the first two numbers are '5.4' or less, skip to step 4. If the number is '5.5' or greater, proceed to step 3.
-For non-CE Calculators - If the number is less than 2.55 skip to step 4, otherwise proceed to step 3.
+For non-CE Calculators - Proceed to step 3.
 
 
 Step 3.
@@ -29,7 +30,7 @@ Connect your calculator to your computer via a USB cable. Then proceed to 'https
 
 Step 3b.
 
-Connect your calculator to your computer via a USB cable.
+Connect your calculator to your computer via a USB cable. Then proceed to 'https://github.com/laclustr/TIGG/blob/main/Jailbreak/Non-CE%20Calculators/ion.83g' and download the file. Next, proceed to 'https://github.com/laclustr/TIGG/blob/main/Jailbreak/Non-CE%20Calculators/ion.8xg' and download that file. Open the TI Connect CE application. Then, click on the icon that appears to be a stack of papers. Drag and drop the two files you just downloaded onto the grey and white lines. Click the blue send button at the bottom of the popup and proceed to the calculator. On the calculator, press the 'prgm' button. Run the 'ION' program. Once it installs, 
 
 
 Step 4. 
