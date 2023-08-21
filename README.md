@@ -20,4 +20,9 @@ Check the version of your calculator OS by pressing the '2nd' key as well as the
 
 Step 3.
 
-Plug your calculator into your computer's USB port. Open the TI Connect CE Software
+For CE calculators, proceed to step 3a. For non-CE calculators proceed to step 3b.
+
+
+Step 3a.
+
+Proceed to https://github.com/YvanTT/arTIfiCE/releases/download/v1.2/arTIfiCE.8xv
