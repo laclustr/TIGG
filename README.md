@@ -56,4 +56,4 @@ For Non-CE calculators (Those who did step 3b) -
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Otherwise, here's a tutorial for CE 'https://youtu.be/eRVceU5MWTY'
+Otherwise, here's a tutorial for CE 'https://youtu.be/DIeA9OIy6Vs'
