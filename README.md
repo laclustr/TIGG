@@ -25,4 +25,14 @@ For CE calculators, proceed to step 3a. For non-CE calculators proceed to step 3
 
 Step 3a.
 
-Proceed to 'https://github.com/laclustr/TIGG/blob/main/arTIfiCE.8xv' and download the file. Next, proceed to 'https://github.com/laclustr/TIGG/blob/main/cesium.8xp' and download that file. Open the TI Connect CE application. Then, click on the icon that appears to be a stack of papers. Drag and drop the two files you just downloaded onto the grey and white lines.
+Connect your calculator to your computer via a USB cable. Then proceed to 'https://github.com/laclustr/TIGG/blob/main/arTIfiCE.8xv' and download the file. Next, proceed to 'https://github.com/laclustr/TIGG/blob/main/cesium.8xp' and download that file. Open the TI Connect CE application. Then, click on the icon that appears to be a stack of papers. Drag and drop the two files you just downloaded onto the grey and white lines. Click the blue send button at the bottom of the popup and proceed to the calculator. Press the apps button on the calculator, then use the arrow keys to navigate down to the app that is named CabriJr. Click enter twice. If a menu appears, don't press anything. Otherwise, click the 'y=' button. Navigate to the open button and click enter twice. You are halfway through! Navigate to where it says Cesium and press enter. It may take a minute to appear but the app should say it's been successfully installed. Press 'clear' and then 'mode'. You have successfully jailbroken a calculator! Proceed to step 4.
+
+
+Step 3b.
+
+
+
+
+Step 4. 
+
+Scroll to the top of the page. Click on the games folder and click on your calculator model. Download any of the games you may enjoy.
