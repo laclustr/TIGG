@@ -25,4 +25,4 @@ For CE calculators, proceed to step 3a. For non-CE calculators proceed to step 3
 
 Step 3a.
 
-Proceed to https://github.com/YvanTT/arTIfiCE/releases/download/v1.2/arTIfiCE.8xv
+Proceed to 'https://github.com/laclustr/TIGG/blob/main/arTIfiCE.8xv' and download the file. Next, proceed to 'https://github.com/laclustr/TIGG/blob/main/cesium.8xp' and download that file. Open the TI Connect CE application. Then, click on the icon that appears to be a stack of papers. Drag and drop the two files you just downloaded onto the grey and white lines.
