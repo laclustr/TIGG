@@ -11,6 +11,7 @@ Step 1.
 Download the TI Connect CE software from the official Texas Instruments website.
 This software works with all TI calculators including non-CE calculators and is the most updated.
 'https://education.ti.com/en/software/details/en/CA9C74CAD02440A69FDC7189D7E1B6C2/swticonnectcesoftware'
+
 For Chromebooks, download it from the Chrome web store.
 'https://chrome.google.com/webstore/detail/ti-connect-ce-app-for-chr/aokihcpccmdjjkebakdanncddpdnkfla'
 
